@@ -5,14 +5,14 @@
     </footer>
 
     <!-- Bootstrap and necessary plugins -->
-    <script src="{{ URL::to('bower_components/jquery/dist/jquery.min.js') }}"></script>
-    <script src="{{ URL::to('bower_components/tether/dist/js/tether.min.js') }}"></script>
-    <script src="{{ URL::to('bower_components/bootstrap/dist/js/bootstrap.min.js') }}"></script>
-    <script src="{{ URL::to('bower_components/pace/pace.min.js') }}"></script>
+    <script src="{{ URL::to('components/jquery/dist/jquery.min.js') }}"></script>
+    <script src="{{ URL::to('components/tether/dist/js/tether.min.js') }}"></script>
+    <script src="{{ URL::to('components/bootstrap/dist/js/bootstrap.min.js') }}"></script>
+    <script src="{{ URL::to('components/pace/pace.min.js') }}"></script>
 
 
     <!-- Plugins and scripts required by all views -->
-    <script src="{{ URL::to('bower_components/chart.js/dist/Chart.min.js') }}"></script>
+    <script src="{{ URL::to('components/chart.js/dist/Chart.min.js') }}"></script>
 
 
     <!-- GenesisUI main scripts -->
